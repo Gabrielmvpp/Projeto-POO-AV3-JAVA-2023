@@ -27,4 +27,3 @@ public abstract class Desenvolvedor extends Funcionario implements ITarefa {
     @Override
     public abstract void realizarTarefa();
 }
-

@@ -15,9 +15,6 @@ public class Main {
         ceo.distribuirDinheiro(devJunior2, 15000);
         devJunior.adicionarTarefa("Corrigir bug que sarlim pediu");
         devJunior.listarTarefas();
-        
 
-
-      
     }
 }
